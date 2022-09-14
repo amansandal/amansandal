@@ -3,8 +3,8 @@
 - I'm Final Year undergraduate student from Thapar Institute of Engineering and Technology, Patiala, India.
 - I’m a Machine Learning enthusiast.
 
-- 📫 How to reach me: [amansandal39@gmail.com](mailto:amansandal39@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1MxlfArRdXVy21j7okbw9326VR1Lq82ll/view?usp=sharing) 
+- 📫 How to reach me: [amansandal@yahoo.com](mailto:amansandal@yahoo.com)
+- 📝 [Resume](https://drive.google.com/file/d/16vHi4TZsvo5UyYvqW-F7VMWb0hmvzSvb/view?usp=sharing) 
 <a href="https://www.linkedin.com/in/amansandal/">
 <img alt="Aman's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
