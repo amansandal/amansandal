@@ -2,7 +2,7 @@
 - My name is Aman Sandal.
 
 
-- 📫 How to reach me: [amansandal@yahoo.com](mailto:asandal@stevens.edu)
+- 📫 Reach me at: [asandal@stevens.edu](mailto:asandal@stevens.edu)
 - 📝 [Resume](https://drive.google.com/file/d/1fbMle_DrMfD1E8d5UmJZv0j1OV9y-ISR/view?usp=sharing)
 - 📝 [Transcript](https://drive.google.com/file/d/1y-Ss_gNZ_hJ-6BPvF4pySKGGfbwxPaQp/view?usp=sharing)
 <a href="https://www.linkedin.com/in/amansandal/">
