@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: [amansandal@yahoo.com](mailto:amansandal@yahoo.com)
-- 📝 [Resume]([https://drive.google.com/file/d/16vHi4TZsvo5UyYvqW-F7VMWb0hmvzSvb/view?usp=sharing](https://drive.google.com/file/d/1fbMle_DrMfD1E8d5UmJZv0j1OV9y-ISR/view?usp=sharing)) 
+- 📝 [Resume]([[https://drive.google.com/file/d/16vHi4TZsvo5UyYvqW-F7VMWb0hmvzSvb/view?usp=sharing]) 
 <a href="https://www.linkedin.com/in/amansandal/">
 <img alt="Aman's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
