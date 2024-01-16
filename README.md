@@ -3,8 +3,7 @@
 
 
 - 📫 Reach me at: [asandal@stevens.edu](mailto:asandal@stevens.edu)
-- 📝 [Resume](https://drive.google.com/file/d/1fbMle_DrMfD1E8d5UmJZv0j1OV9y-ISR/view?usp=sharing)
-- 📝 [Transcript](https://drive.google.com/file/d/1y-Ss_gNZ_hJ-6BPvF4pySKGGfbwxPaQp/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1TWuEsQqWj2IJR6CoEKOHDpLF7j1ILW0f/view?usp=sharing)
 - <a href="https://www.linkedin.com/in/amansandal/"> <img alt="Aman's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
